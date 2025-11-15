@@ -1,4 +1,4 @@
-# Harshit-mysql
+# Pawan-mysql
 Here is a README in Markdown format for the attached `saitm_dep1.sql` file, summarizing its structure and content.[1]
 
 ***
